@@ -1,5 +1,5 @@
-var rows = 30;
-var cols = 30;
+var rows = 15;
+var cols = 15;
 
 //rows =  window.screen.width / 20;
 //cols =  window.screen.height / 20;
